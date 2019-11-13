@@ -1,4 +1,8 @@
- #!/usr/bin/python
+#!/usr/bin/env python3
+
+# Écrire les entiers de 1 à 17 en ligne, une seule fois chacun,
+# en les rangeant de sorte que la somme de deux nombres consécutifs
+# quelconques de cette liste soit un carré.
 
 import sys
 import math
