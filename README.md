@@ -1,8 +1,11 @@
 # The Square Sum Problem
 
 https://oeis.org/A090461
+
 https://www.youtube.com/watch?v=G1m7goLCJDY
+
 https://www.youtube.com/watch?v=7_ph5djCCnM
+
 http://mersenneforum.org/showthread.php?p=477787
 
 **Find a permutation of the integers 1 to N so that the sum of adjacent numbers is a square.**
